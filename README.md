@@ -1,21 +1,3 @@
-# Repository
+# zenoh-ros
 
-TODO: Remember to update the following files for your onwn needs
-
-* `.pre-commit-config.yaml`
-* `.gitignore`
-* `.github`: CI related
-
-## Usage
-
-* Install prerequisite.sh
-
-```shell
-./prerequisite.sh
-```
-
-* Install pre-commit
-
-```shell
-pre-commit install --install-hooks
-```
+Provide some usefuls function for Zenoh to connect to ROS 2 with rmw_zenoh
